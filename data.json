@@ -1,0 +1,17 @@
+[
+  {
+    "wasteType": "Paper",
+    "quantity": "10",
+    "description": "Recyclable paper waste"
+  },
+  {
+    "wasteType": "Plastic",
+    "quantity": "5",
+    "description": "Non-recyclable plastic waste"
+  },
+  {
+    "wasteType": "Glass",
+    "quantity": "15",
+    "description": "Recyclable glass waste"
+  }
+]
